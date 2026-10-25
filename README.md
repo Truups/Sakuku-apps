@@ -1,6 +1,6 @@
-# sakuku
+# Sakuku App
 
-A new Flutter project.
+Simple App for managing Income and Expenses personally.
 
 ## Getting Started
 
